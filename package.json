@@ -1,0 +1,10 @@
+{
+  "name": "js-workbench",
+  "version": "1.0.0",
+  "description": "JavaScript playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
